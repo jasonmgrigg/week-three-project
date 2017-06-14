@@ -1,3 +1,4 @@
+
 // writes first set of numbers without the operator to the variable firstNumber.
 
 var buttonArray = document.querySelectorAll("button");
